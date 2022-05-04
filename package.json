@@ -1,6 +1,6 @@
 {
   "name": "rc-simple-component",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "private": false,
   "description": "สำหรับใช้งาน component ที่ใช้บ่อยและต้องการ custom attr เอง",
   "main": "dist/index.js",
